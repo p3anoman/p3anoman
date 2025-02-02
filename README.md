@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning newspeak http://newspeaklanguage.org
 - 👀 I’m interested in croquet.io
 - 💞️ I’m looking to collaborate on both :)
-- 📫 mckeonmathematical@gmail.com
+- 📫 p3anoman@gmail.com
 
 <!---
 p3anoman/p3anoman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
