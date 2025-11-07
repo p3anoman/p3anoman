@@ -1,6 +1,6 @@
 - 👋 John McKeon: loner, hobbyist, dumbo with a Mathematics degree
-- 🌱 I’m currently learning newspeak https://github.com/newspeaklanguage
-- 👀 I’m interested in https://github.com/croquet.io
+- 🌱 I’m currently learning newspeak https://github.com/newspeaklanguage/newspeak
+- 👀 I’m interested in https://github.com/croquet
 - 💞️ I’m looking to collaborate on both :)
 - 📫 p3anoman@gmail.com
 
